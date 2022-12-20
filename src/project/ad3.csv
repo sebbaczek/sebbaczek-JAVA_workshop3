@@ -1,0 +1,236 @@
+COMPANY: Lexus, 
+AMOUNT: 12
+[{model=IS F, id=2, price=72669.07}, {model=LS, id=196, price=90019.91}, {model=ES, id=207, price=75323.10}, {model=LX, id=286, price=61266.53}, {model=IS F, id=393, price=7464.01}, {model=IS, id=489, price=29762.35}, {model=IS, id=713, price=43953.17}, {model=LS, id=817, price=28444.16}, {model=SC, id=842, price=61697.15}, {model=IS-F, id=881, price=20327.75}, {model=SC, id=882, price=51389.10}, {model=GS, id=980, price=68162.34}]
+
+COMPANY: Subaru, 
+AMOUNT: 15
+[{model=Forester, id=73, price=72205.00}, {model=Legacy, id=78, price=84470.36}, {model=Leone, id=144, price=61810.51}, {model=Justy, id=231, price=82502.60}, {model=Legacy, id=254, price=84340.16}, {model=SVX, id=287, price=96360.87}, {model=Tribeca, id=318, price=51935.34}, {model=Justy, id=497, price=15384.23}, {model=Outback, id=547, price=37162.04}, {model=Loyale, id=549, price=43850.02}, {model=Forester, id=561, price=93179.89}, {model=Justy, id=582, price=38207.69}, {model=Legacy, id=670, price=25586.33}, {model=Forester, id=726, price=78481.71}, {model=Outback, id=905, price=72940.96}]
+
+COMPANY: Chevrolet, 
+AMOUNT: 74
+[{model=Cobalt, id=1, price=67487.58}, {model=Silverado 2500, id=6, price=35588.74}, {model=Malibu, id=10, price=80118.18}, {model=Suburban 2500, id=14, price=88935.98}, {model=Express 1500, id=15, price=19212.71}, {model=Equinox, id=21, price=52849.21}, {model=Malibu, id=24, price=9224.59}, {model=G-Series G10, id=28, price=73435.81}, {model=Express 2500, id=43, price=37242.60}, {model=Impala, id=51, price=80557.94}, {model=Tahoe, id=130, price=48509.46}, {model=Sportvan G20, id=136, price=46420.20}, {model=Cobalt SS, id=143, price=68941.55}, {model=TrailBlazer, id=148, price=25082.65}, {model=Silverado 2500, id=167, price=71122.19}, {model=3500, id=168, price=80037.02}, {model=Metro, id=169, price=83510.21}, {model=Colorado, id=173, price=33419.80}, {model=Suburban 2500, id=194, price=63010.50}, {model=Lumina, id=221, price=13464.81}, {model=HHR, id=223, price=51293.94}, {model=Sportvan G30, id=225, price=94826.17}, {model=SSR, id=249, price=47507.31}, {model=Monte Carlo, id=274, price=66959.46}, {model=Express 1500, id=279, price=21450.41}, {model=Express, id=302, price=74983.39}, {model=Caprice, id=313, price=14814.13}, {model=1500, id=316, price=50346.10}, {model=Venture, id=323, price=61806.78}, {model=Suburban 2500, id=347, price=47863.67}, {model=Cavalier, id=366, price=68453.30}, {model=Express 3500, id=368, price=33200.38}, {model=Silverado 2500, id=377, price=84876.00}, {model=Caprice Classic, id=388, price=73905.56}, {model=Corvette, id=401, price=66243.08}, {model=Avalanche 1500, id=404, price=48710.40}, {model=Corvette, id=412, price=50694.76}, {model=Express 2500, id=457, price=45482.16}, {model=S10, id=458, price=72424.96}, {model=HHR, id=483, price=38398.33}, {model=Corvette, id=508, price=12596.16}, {model=Suburban 1500, id=511, price=65723.19}, {model=2500, id=514, price=10626.82}, {model=G-Series G10, id=515, price=89302.75}, {model=Express 3500, id=556, price=68251.53}, {model=Sportvan G30, id=583, price=68095.63}, {model=Silverado 2500, id=591, price=72526.32}, {model=HHR, id=594, price=5298.14}, {model=1500, id=605, price=60357.78}, {model=Express 3500, id=631, price=81029.37}, {model=Aveo, id=637, price=54181.97}, {model=Corvette, id=666, price=51423.85}, {model=Corvette, id=686, price=8905.37}, {model=G-Series G20, id=692, price=56306.72}, {model=Lumina, id=697, price=67013.15}, {model=Silverado 3500, id=706, price=40912.28}, {model=G-Series G20, id=739, price=39825.36}, {model=Tracker, id=772, price=72207.02}, {model=Cavalier, id=779, price=72928.00}, {model=Impala, id=782, price=3950.11}, {model=Camaro, id=801, price=69624.54}, {model=Corvette, id=807, price=23899.56}, {model=Metro, id=826, price=87282.09}, {model=Avalanche 1500, id=829, price=50872.19}, {model=G-Series G20, id=845, price=69481.30}, {model=2500, id=860, price=63204.36}, {model=Caprice, id=899, price=12198.77}, {model=TrailBlazer, id=915, price=63109.55}, {model=Suburban 2500, id=925, price=10384.44}, {model=Sportvan G30, id=928, price=45593.86}, {model=Express 3500, id=930, price=48368.72}, {model=Colorado, id=960, price=35879.16}, {model=Corvette, id=963, price=7848.14}, {model=Cavalier, id=977, price=12888.87}]
+
+COMPANY: Citroën, 
+AMOUNT: 1
+[{model=2CV, id=267, price=21373.33}]
+
+COMPANY: Austin, 
+AMOUNT: 2
+[{model=Mini Cooper, id=203, price=11178.82}, {model=Mini Cooper S, id=322, price=98795.19}]
+
+COMPANY: Chrysler, 
+AMOUNT: 19
+[{model=300M, id=18, price=63058.40}, {model=Concorde, id=83, price=37644.77}, {model=PT Cruiser, id=96, price=15721.87}, {model=New Yorker, id=132, price=639.91}, {model=Concorde, id=147, price=6938.73}, {model=PT Cruiser, id=226, price=77632.50}, {model=Cirrus, id=331, price=52197.41}, {model=PT Cruiser, id=365, price=93248.67}, {model=300M, id=408, price=38131.86}, {model=Concorde, id=552, price=27196.08}, {model=Aspen, id=571, price=43763.08}, {model=Concorde, id=618, price=83447.00}, {model=Town & Country, id=704, price=31825.27}, {model=Sebring, id=753, price=87816.17}, {model=Sebring, id=767, price=94816.65}, {model=300, id=866, price=91386.40}, {model=Voyager, id=926, price=22886.89}, {model=Concorde, id=952, price=20549.93}, {model=Town & Country, id=966, price=67749.86}]
+
+COMPANY: Maserati, 
+AMOUNT: 4
+[{model=Biturbo, id=304, price=64426.98}, {model=Quattroporte, id=307, price=83431.20}, {model=GranTurismo, id=430, price=9968.08}, {model=Coupe, id=703, price=2453.93}]
+
+COMPANY: Infiniti, 
+AMOUNT: 14
+[{model=Q, id=35, price=22305.50}, {model=FX, id=111, price=10297.11}, {model=G35, id=228, price=70158.45}, {model=G37, id=360, price=91197.03}, {model=G, id=411, price=19425.70}, {model=G, id=427, price=87854.37}, {model=I, id=535, price=23254.85}, {model=FX, id=593, price=46100.27}, {model=J, id=672, price=28641.01}, {model=QX, id=678, price=94251.36}, {model=FX, id=777, price=36091.78}, {model=M, id=806, price=2551.07}, {model=EX, id=889, price=1044.88}, {model=M, id=908, price=96817.88}]
+
+COMPANY: Suzuki, 
+AMOUNT: 8
+[{model=SJ 410, id=153, price=47819.20}, {model=SX4, id=259, price=22436.09}, {model=Sidekick, id=596, price=69918.56}, {model=Swift, id=598, price=36333.27}, {model=Swift, id=638, price=70272.78}, {model=Verona, id=742, price=48857.49}, {model=Grand Vitara, id=914, price=46821.21}, {model=Kizashi, id=941, price=49388.37}]
+
+COMPANY: Lincoln, 
+AMOUNT: 11
+[{model=MKT, id=145, price=6444.46}, {model=Town Car, id=270, price=96472.28}, {model=Navigator, id=278, price=90568.26}, {model=Navigator L, id=479, price=48521.65}, {model=Blackwood, id=525, price=31306.78}, {model=Navigator, id=717, price=1229.56}, {model=Navigator, id=718, price=14405.46}, {model=Mark VIII, id=813, price=53874.79}, {model=Town Car, id=839, price=74697.14}, {model=Continental, id=942, price=66092.79}, {model=MKT, id=996, price=60519.09}]
+
+COMPANY: GMC, 
+AMOUNT: 35
+[{model=Suburban 1500, id=41, price=31746.21}, {model=Jimmy, id=84, price=64474.61}, {model=Yukon, id=101, price=64903.07}, {model=2500, id=107, price=38509.40}, {model=Sierra Denali, id=155, price=98958.47}, {model=Yukon XL 1500, id=165, price=55144.44}, {model=Suburban 1500, id=184, price=57284.76}, {model=1500, id=205, price=64062.67}, {model=Sierra, id=215, price=51743.05}, {model=Envoy, id=262, price=58388.07}, {model=Safari, id=263, price=61548.34}, {model=Yukon XL 2500, id=292, price=69035.73}, {model=Yukon, id=308, price=72033.77}, {model=Yukon XL, id=348, price=11181.27}, {model=Sierra 3500HD, id=375, price=84773.86}, {model=Sierra 3500, id=387, price=53506.27}, {model=1500, id=395, price=3070.67}, {model=Savana, id=426, price=31054.78}, {model=Jimmy, id=446, price=47126.24}, {model=Savana 2500, id=507, price=43340.55}, {model=Sierra 2500HD, id=534, price=40112.71}, {model=Safari, id=589, price=51305.64}, {model=Savana 3500, id=592, price=11530.76}, {model=Suburban 2500, id=604, price=84627.60}, {model=2500 Club Coupe, id=613, price=45723.16}, {model=Savana 2500, id=647, price=93562.16}, {model=2500, id=660, price=21660.32}, {model=Savana 1500, id=667, price=40340.91}, {model=Savana 2500, id=705, price=98810.22}, {model=Sierra 1500, id=748, price=56821.35}, {model=Sierra 3500HD, id=864, price=15836.35}, {model=Rally Wagon G3500, id=891, price=35595.63}, {model=Yukon, id=907, price=15503.07}, {model=Savana 3500, id=913, price=86096.31}, {model=Rally Wagon 3500, id=968, price=12368.59}]
+
+COMPANY: Hyundai, 
+AMOUNT: 21
+[{model=Veracruz, id=119, price=9339.93}, {model=Veracruz, id=151, price=78018.69}, {model=Genesis Coupe, id=220, price=16713.20}, {model=Tiburon, id=319, price=64358.19}, {model=Sonata, id=337, price=59514.90}, {model=Sonata, id=357, price=7347.83}, {model=Sonata, id=383, price=37295.71}, {model=Sonata, id=422, price=71339.39}, {model=Tucson, id=477, price=96352.61}, {model=Accent, id=482, price=24129.79}, {model=Azera, id=560, price=11607.56}, {model=Azera, id=600, price=18203.75}, {model=Genesis, id=668, price=1489.55}, {model=Sonata, id=744, price=87557.69}, {model=Santa Fe, id=791, price=38452.21}, {model=Elantra, id=846, price=98188.28}, {model=Elantra, id=854, price=2283.22}, {model=Azera, id=859, price=18176.17}, {model=Accent, id=900, price=2478.54}, {model=Accent, id=931, price=46633.87}, {model=Scoupe, id=973, price=66626.90}]
+
+COMPANY: Eagle, 
+AMOUNT: 4
+[{model=Vision, id=46, price=83032.48}, {model=Vision, id=202, price=73721.66}, {model=Vision, id=385, price=55196.84}, {model=Talon, id=466, price=15778.36}]
+
+COMPANY: Aston Martin, 
+AMOUNT: 3
+[{model=DB9, id=191, price=17877.99}, {model=DB9, id=470, price=6843.48}, {model=DBS, id=776, price=72356.01}]
+
+COMPANY: Acura, 
+AMOUNT: 11
+[{model=RDX, id=25, price=64467.57}, {model=RL, id=54, price=87273.74}, {model=TL, id=247, price=36695.79}, {model=NSX, id=424, price=82460.18}, {model=TL, id=450, price=40421.13}, {model=TL, id=476, price=97537.19}, {model=NSX, id=490, price=41234.76}, {model=RL, id=622, price=19924.03}, {model=Integra, id=759, price=24435.25}, {model=ZDX, id=862, price=74967.68}, {model=CL, id=957, price=82961.35}]
+
+COMPANY: Kia, 
+AMOUNT: 9
+[{model=Spectra, id=102, price=59132.18}, {model=Sportage, id=400, price=62965.49}, {model=Spectra, id=590, price=43602.19}, {model=Rio, id=603, price=41335.71}, {model=Sedona, id=610, price=75400.69}, {model=Soul, id=671, price=30479.21}, {model=Rio, id=693, price=71735.09}, {model=Optima, id=724, price=36354.28}, {model=Sedona, id=746, price=56191.31}]
+
+COMPANY: Pontiac, 
+AMOUNT: 36
+[{model=Solstice, id=29, price=20647.67}, {model=G6, id=45, price=94006.99}, {model=Sunbird, id=65, price=45933.12}, {model=Grand Prix, id=100, price=31841.04}, {model=Grand Prix, id=108, price=94817.43}, {model=6000, id=142, price=5256.21}, {model=Grand Prix, id=158, price=36634.65}, {model=Bonneville, id=175, price=5965.18}, {model=Daewoo Kalos, id=211, price=87202.11}, {model=Sunbird, id=234, price=73973.16}, {model=1000, id=276, price=84056.46}, {model=Bonneville, id=306, price=73227.73}, {model=G8, id=333, price=1514.04}, {model=Grand Prix, id=379, price=66983.14}, {model=G8, id=382, price=43318.68}, {model=LeMans, id=428, price=60284.14}, {model=Bonneville, id=464, price=79501.76}, {model=Sunbird, id=495, price=88574.10}, {model=LeMans, id=500, price=88662.66}, {model=Grand Prix, id=564, price=51170.69}, {model=LeMans, id=602, price=81005.80}, {model=Grand Prix, id=623, price=75406.97}, {model=Fiero, id=689, price=8202.10}, {model=G6, id=721, price=44112.55}, {model=Grand Prix, id=737, price=9921.56}, {model=GTO, id=760, price=86303.79}, {model=Vibe, id=783, price=13702.26}, {model=Grand Am, id=793, price=31178.86}, {model=G6, id=800, price=36745.87}, {model=Trans Sport, id=830, price=305.73}, {model=LeMans, id=858, price=88280.13}, {model=G5, id=898, price=453.87}, {model=Firebird, id=904, price=98532.02}, {model=Vibe, id=935, price=76578.31}, {model=Montana, id=947, price=49063.18}, {model=LeMans, id=984, price=65315.34}]
+
+COMPANY: Plymouth, 
+AMOUNT: 7
+[{model=Colt Vista, id=31, price=53245.72}, {model=Volare, id=44, price=88917.51}, {model=Colt, id=126, price=57417.48}, {model=Grand Voyager, id=288, price=12759.28}, {model=Voyager, id=536, price=64560.93}, {model=Voyager, id=587, price=77905.52}, {model=Voyager, id=869, price=86774.17}]
+
+COMPANY: Saab, 
+AMOUNT: 13
+[{model=9-7X, id=95, price=48257.80}, {model=9000, id=255, price=41963.43}, {model=9-5, id=266, price=84764.56}, {model=9000, id=268, price=71315.68}, {model=9-5, id=321, price=9799.03}, {model=900, id=537, price=4098.13}, {model=9-5, id=568, price=81185.71}, {model=9-7X, id=711, price=62681.36}, {model=9-7X, id=768, price=47600.13}, {model=900, id=832, price=94045.61}, {model=9-5, id=855, price=49651.80}, {model=9-3, id=871, price=35561.43}, {model=9000, id=986, price=49014.60}]
+
+COMPANY: Mazda, 
+AMOUNT: 34
+[{model=B-Series Plus, id=5, price=71988.49}, {model=MX-5, id=8, price=25332.86}, {model=Mazdaspeed 3, id=40, price=43416.68}, {model=CX-7, id=58, price=74018.72}, {model=Mazda2, id=120, price=77296.02}, {model=626, id=160, price=34880.98}, {model=MX-5, id=190, price=29357.94}, {model=CX-7, id=213, price=53087.83}, {model=Millenia, id=229, price=22569.04}, {model=CX-5, id=232, price=56757.95}, {model=Millenia, id=271, price=37991.48}, {model=CX-7, id=284, price=80814.80}, {model=RX-7, id=297, price=54789.33}, {model=RX-7, id=334, price=60821.10}, {model=B2000, id=370, price=69924.62}, {model=B-Series Plus, id=391, price=81993.36}, {model=Miata MX-5, id=414, price=34512.20}, {model=MX-5, id=421, price=41728.54}, {model=MX-6, id=434, price=56681.54}, {model=CX-7, id=454, price=21597.37}, {model=B-Series Plus, id=473, price=97277.50}, {model=B-Series Plus, id=530, price=45897.22}, {model=RX-8, id=625, price=62387.06}, {model=Familia, id=627, price=70021.37}, {model=CX-9, id=716, price=19705.91}, {model=626, id=747, price=71137.72}, {model=MPV, id=755, price=89254.00}, {model=MPV, id=815, price=58981.72}, {model=Mazdaspeed 3, id=834, price=92331.15}, {model=Familia, id=838, price=83979.53}, {model=MX-5, id=911, price=13384.30}, {model=MX-3, id=922, price=40200.92}, {model=626, id=981, price=27606.00}, {model=Tribute, id=998, price=8031.83}]
+
+COMPANY: Geo, 
+AMOUNT: 2
+[{model=Metro, id=443, price=71671.73}, {model=Metro, id=959, price=5104.64}]
+
+COMPANY: Maybach, 
+AMOUNT: 6
+[{model=57, id=264, price=61311.79}, {model=57, id=353, price=77999.35}, {model=57, id=516, price=16819.49}, {model=57, id=527, price=23614.97}, {model=62, id=770, price=92208.52}, {model=57, id=837, price=11437.43}]
+
+COMPANY: Toyota, 
+AMOUNT: 50
+[{model=T100 Xtra, id=16, price=83465.10}, {model=4Runner, id=23, price=44024.02}, {model=T100, id=64, price=56891.24}, {model=Camry, id=93, price=70473.21}, {model=Sequoia, id=103, price=2401.63}, {model=Previa, id=105, price=75874.85}, {model=Avalon, id=118, price=70333.33}, {model=Highlander, id=135, price=80403.95}, {model=Tercel, id=179, price=16793.13}, {model=Tundra, id=180, price=55141.00}, {model=4Runner, id=181, price=79398.95}, {model=Land Cruiser, id=222, price=75418.19}, {model=Tacoma Xtra, id=233, price=17711.85}, {model=Ipsum, id=243, price=41036.16}, {model=Tacoma Xtra, id=244, price=17651.88}, {model=Celica, id=282, price=87073.77}, {model=Land Cruiser, id=310, price=78357.14}, {model=Yaris, id=326, price=95943.63}, {model=FJ Cruiser, id=329, price=42841.55}, {model=RAV4, id=345, price=3950.60}, {model=Corolla, id=359, price=93300.93}, {model=Sequoia, id=374, price=13785.83}, {model=Camry, id=390, price=73846.22}, {model=Sienna, id=409, price=68263.57}, {model=Matrix, id=413, price=66666.84}, {model=Echo, id=415, price=57053.25}, {model=Highlander, id=417, price=70370.83}, {model=MR2, id=452, price=46421.38}, {model=Supra, id=488, price=8892.98}, {model=4Runner, id=509, price=59534.29}, {model=RAV4, id=546, price=43748.05}, {model=Tacoma, id=557, price=9305.26}, {model=Corolla, id=566, price=69632.55}, {model=Solara, id=569, price=76247.84}, {model=Land Cruiser, id=641, price=98423.50}, {model=Land Cruiser, id=688, price=3437.42}, {model=Tacoma Xtra, id=701, price=30131.86}, {model=TundraMax, id=738, price=21198.48}, {model=4Runner, id=764, price=70872.84}, {model=Corolla, id=769, price=74715.53}, {model=Sequoia, id=774, price=46742.90}, {model=Prius, id=788, price=85887.26}, {model=Prius, id=794, price=64093.23}, {model=Camry, id=799, price=93120.77}, {model=Tundra, id=847, price=10592.64}, {model=Avalon, id=909, price=61601.91}, {model=Tacoma, id=917, price=82909.59}, {model=Celica, id=921, price=28857.08}, {model=T100, id=939, price=83019.17}, {model=Land Cruiser, id=988, price=44841.20}]
+
+COMPANY: Tesla, 
+AMOUNT: 1
+[{model=Roadster, id=937, price=7056.76}]
+
+COMPANY: Jaguar, 
+AMOUNT: 9
+[{model=XJ Series, id=113, price=16528.18}, {model=XK Series, id=162, price=61643.85}, {model=S-Type, id=280, price=74464.65}, {model=XJ Series, id=346, price=22518.01}, {model=S-Type, id=512, price=29889.66}, {model=XK Series, id=531, price=64030.07}, {model=XJ Series, id=728, price=24425.00}, {model=XK, id=757, price=18787.12}, {model=XJ Series, id=808, price=31308.04}]
+
+COMPANY: Spyker, 
+AMOUNT: 1
+[{model=C8 Double 12 S, id=559, price=96561.56}]
+
+COMPANY: Mercedes-Benz, 
+AMOUNT: 47
+[{model=E-Class, id=27, price=59050.98}, {model=CLS-Class, id=47, price=3183.57}, {model=SLS AMG, id=50, price=6369.83}, {model=SL-Class, id=59, price=42147.27}, {model=E-Class, id=69, price=64393.66}, {model=SL65 AMG, id=85, price=12734.28}, {model=G-Class, id=128, price=91226.32}, {model=C-Class, id=134, price=24707.10}, {model=300D, id=172, price=17810.02}, {model=M-Class, id=187, price=98107.82}, {model=C-Class, id=248, price=32785.51}, {model=SLK-Class, id=294, price=45019.57}, {model=CLK-Class, id=338, price=93260.59}, {model=E-Class, id=341, price=42460.73}, {model=R-Class, id=356, price=69554.95}, {model=W201, id=362, price=93000.95}, {model=SL-Class, id=371, price=16464.10}, {model=S-Class, id=425, price=63444.94}, {model=300E, id=436, price=69282.52}, {model=SLK-Class, id=480, price=66904.75}, {model=R-Class, id=543, price=40634.21}, {model=R-Class, id=608, price=19967.40}, {model=S-Class, id=611, price=80139.84}, {model=SLK-Class, id=635, price=69094.53}, {model=SLR McLaren, id=656, price=98123.27}, {model=CL65 AMG, id=659, price=59195.01}, {model=G-Class, id=680, price=30421.46}, {model=SLK-Class, id=710, price=17927.78}, {model=M-Class, id=729, price=76751.56}, {model=SL-Class, id=733, price=81517.63}, {model=S-Class, id=740, price=32875.67}, {model=SL-Class, id=781, price=4799.02}, {model=C-Class, id=785, price=87503.18}, {model=CL-Class, id=796, price=77944.64}, {model=E-Class, id=805, price=54876.31}, {model=SL-Class, id=811, price=66284.37}, {model=SLS AMG, id=819, price=79588.99}, {model=W201, id=861, price=86538.44}, {model=SL-Class, id=877, price=97767.71}, {model=W123, id=901, price=44748.84}, {model=E-Class, id=906, price=31371.77}, {model=E-Class, id=924, price=20801.29}, {model=C-Class, id=945, price=44998.76}, {model=300TE, id=951, price=58487.99}, {model=SLK-Class, id=970, price=93702.98}, {model=SL-Class, id=987, price=18686.72}, {model=E-Class, id=992, price=38456.38}]
+
+COMPANY: Panoz, 
+AMOUNT: 1
+[{model=Esperante, id=77, price=53455.19}]
+
+COMPANY: Daewoo, 
+AMOUNT: 1
+[{model=Leganza, id=646, price=94984.18}]
+
+COMPANY: Volkswagen, 
+AMOUNT: 36
+[{model=GTI, id=3, price=24576.75}, {model=Passat, id=20, price=63972.26}, {model=New Beetle, id=36, price=57040.11}, {model=Touareg, id=109, price=22049.47}, {model=Quantum, id=121, price=87150.11}, {model=Golf, id=123, price=59642.25}, {model=Jetta, id=183, price=54480.68}, {model=Jetta, id=193, price=66267.35}, {model=GLI, id=253, price=82687.12}, {model=rio, id=285, price=21014.18}, {model=Fox, id=301, price=77660.74}, {model=Rabbit, id=303, price=46767.85}, {model=Jetta, id=309, price=47131.71}, {model=Cabriolet, id=361, price=7012.09}, {model=Golf, id=376, price=22554.05}, {model=GTI, id=381, price=64321.40}, {model=Golf, id=460, price=90475.62}, {model=GTI, id=465, price=635.01}, {model=Jetta, id=554, price=92236.98}, {model=Cabriolet, id=581, price=48813.62}, {model=New Beetle, id=612, price=6531.54}, {model=Type 2, id=639, price=42551.68}, {model=Jetta, id=643, price=58107.37}, {model=Cabriolet, id=653, price=17846.37}, {model=Tiguan, id=676, price=15415.59}, {model=Golf, id=732, price=18020.98}, {model=Passat, id=741, price=39395.61}, {model=Phaeton, id=752, price=12833.78}, {model=Golf, id=762, price=55014.97}, {model=Cabriolet, id=795, price=11057.77}, {model=GTI, id=865, price=67426.94}, {model=rio, id=876, price=37873.94}, {model=Cabriolet, id=890, price=52627.42}, {model=GTI, id=958, price=42693.79}, {model=Rabbit, id=962, price=16916.02}, {model=GTI, id=989, price=71484.21}]
+
+COMPANY: Volvo, 
+AMOUNT: 18
+[{model=XC90, id=62, price=45536.60}, {model=V50, id=81, price=95214.12}, {model=C30, id=104, price=48525.09}, {model=S40, id=115, price=1686.18}, {model=S80, id=127, price=65303.70}, {model=V70, id=131, price=61642.73}, {model=XC70, id=174, price=39565.71}, {model=S80, id=240, price=97566.15}, {model=XC90, id=350, price=52450.55}, {model=850, id=447, price=18007.71}, {model=XC70, id=455, price=84822.49}, {model=C70, id=463, price=28721.16}, {model=XC90, id=698, price=88051.88}, {model=S60, id=707, price=3041.86}, {model=V70, id=803, price=20525.58}, {model=S40, id=818, price=15768.43}, {model=S80, id=841, price=24114.33}, {model=850, id=933, price=96991.57}]
+
+COMPANY: Saturn, 
+AMOUNT: 4
+[{model=S-Series, id=373, price=13019.07}, {model=VUE, id=520, price=26812.74}, {model=Relay, id=674, price=47066.72}, {model=S-Series, id=938, price=5014.98}]
+
+COMPANY: Dodge, 
+AMOUNT: 52
+[{model=Neon, id=9, price=18117.79}, {model=Charger, id=13, price=75360.35}, {model=Ram Van 1500, id=17, price=6048.17}, {model=D150 Club, id=39, price=45687.25}, {model=Grand Caravan, id=56, price=28993.93}, {model=Dakota Club, id=61, price=15054.17}, {model=Grand Caravan, id=125, price=15038.94}, {model=Ram 1500, id=139, price=98109.15}, {model=Stratus, id=141, price=75713.09}, {model=Dakota Club, id=170, price=24630.42}, {model=Ram 3500 Club, id=224, price=51816.43}, {model=Ram Van 1500, id=237, price=37628.39}, {model=Daytona, id=242, price=65849.56}, {model=Magnum, id=283, price=64382.28}, {model=Dakota Club, id=298, price=996.28}, {model=Grand Caravan, id=320, price=77010.83}, {model=Stratus, id=327, price=48100.31}, {model=Ram Van 2500, id=407, price=58406.23}, {model=Caravan, id=432, price=2124.36}, {model=Ram 2500 Club, id=435, price=56625.93}, {model=Charger, id=459, price=58401.94}, {model=Ram Van B350, id=491, price=66831.50}, {model=Viper, id=499, price=41325.74}, {model=Dakota, id=528, price=99938.19}, {model=Dakota, id=542, price=39865.22}, {model=Stratus, id=545, price=7386.62}, {model=Ram Van B250, id=548, price=23476.59}, {model=Ram Van 1500, id=558, price=27569.23}, {model=Dakota, id=565, price=94078.77}, {model=Grand Caravan, id=576, price=18931.15}, {model=Ram Wagon B250, id=607, price=47066.16}, {model=Avenger, id=609, price=54174.33}, {model=Dakota, id=620, price=91294.44}, {model=Spirit, id=632, price=62428.34}, {model=Ram Van B350, id=634, price=68013.76}, {model=Avenger, id=645, price=47767.09}, {model=Grand Caravan, id=673, price=61882.08}, {model=Viper RT/10, id=675, price=42522.73}, {model=Ram Wagon B250, id=677, price=34367.40}, {model=Grand Caravan, id=681, price=28163.77}, {model=Durango, id=749, price=45584.85}, {model=Ram Van 2500, id=765, price=93066.99}, {model=Ram 2500 Club, id=771, price=32511.62}, {model=Ram 1500, id=844, price=97540.72}, {model=Charger, id=853, price=96970.36}, {model=Ram Van B150, id=872, price=94292.51}, {model=Stratus, id=884, price=78182.91}, {model=Neon, id=918, price=84507.12}, {model=Caravan, id=929, price=84143.31}, {model=Ram Wagon B350, id=946, price=81464.86}, {model=Caravan, id=956, price=24546.55}, {model=Ram 2500, id=967, price=60999.32}]
+
+COMPANY: Audi, 
+AMOUNT: 24
+[{model=A6, id=4, price=14233.71}, {model=A8, id=110, price=68877.19}, {model=A3, id=129, price=2217.07}, {model=A3, id=152, price=59198.28}, {model=Coupe GT, id=166, price=19044.06}, {model=A8, id=192, price=14945.66}, {model=A8, id=386, price=4086.85}, {model=Q7, id=406, price=4808.26}, {model=S4, id=433, price=92793.05}, {model=A3, id=448, price=3754.60}, {model=A3, id=449, price=52107.28}, {model=V8, id=456, price=94151.66}, {model=S8, id=485, price=17758.68}, {model=A3, id=492, price=63016.06}, {model=A4, id=502, price=57306.97}, {model=A4, id=506, price=48332.49}, {model=A6, id=513, price=11159.29}, {model=TT, id=519, price=66745.47}, {model=S4, id=524, price=99248.87}, {model=5000S, id=628, price=62830.11}, {model=A3, id=722, price=2375.20}, {model=Quattro, id=821, price=49492.18}, {model=S4, id=923, price=31782.29}, {model=A8, id=964, price=25751.50}]
+
+COMPANY: Corbin, 
+AMOUNT: 1
+[{model=Sparrow, id=72, price=73545.83}]
+
+COMPANY: Honda, 
+AMOUNT: 30
+[{model=Fit, id=19, price=94081.51}, {model=Pilot, id=30, price=17843.07}, {model=del Sol, id=48, price=38137.21}, {model=CR-V, id=71, price=16599.00}, {model=Element, id=74, price=76710.10}, {model=Prelude, id=89, price=99807.80}, {model=Odyssey, id=178, price=77784.99}, {model=Ridgeline, id=210, price=56635.51}, {model=Fit, id=218, price=8988.04}, {model=CR-V, id=235, price=10981.07}, {model=Accord, id=251, price=44023.21}, {model=CR-Z, id=252, price=39438.18}, {model=CR-V, id=314, price=91399.67}, {model=Accord, id=364, price=85293.98}, {model=Insight, id=392, price=62828.48}, {model=Civic, id=420, price=17569.50}, {model=CR-Z, id=431, price=20376.89}, {model=CR-V, id=467, price=23401.58}, {model=CR-V, id=475, price=96442.53}, {model=Passport, id=570, price=68602.70}, {model=Civic, id=642, price=19353.32}, {model=Pilot, id=699, price=62985.07}, {model=Odyssey, id=797, price=43174.49}, {model=CR-X, id=804, price=30531.61}, {model=Odyssey, id=870, price=67344.41}, {model=Civic, id=883, price=92241.77}, {model=Accord, id=886, price=81863.77}, {model=S2000, id=919, price=87946.88}, {model=Civic, id=969, price=97705.79}, {model=Civic, id=975, price=76028.63}]
+
+COMPANY: Morgan, 
+AMOUNT: 2
+[{model=Aero 8, id=137, price=26557.70}, {model=Aero 8, id=562, price=70172.03}]
+
+COMPANY: Scion, 
+AMOUNT: 1
+[{model=xD, id=199, price=40805.33}]
+
+COMPANY: Porsche, 
+AMOUNT: 12
+[{model=924 S, id=164, price=96664.65}, {model=911, id=171, price=15405.22}, {model=911, id=258, price=89132.44}, {model=Boxster, id=572, price=59274.97}, {model=Cayenne, id=599, price=99706.01}, {model=911, id=696, price=32261.25}, {model=911, id=786, price=96690.50}, {model=Boxster, id=822, price=53675.87}, {model=911, id=851, price=42587.96}, {model=911, id=892, price=24654.89}, {model=Cayenne, id=896, price=22476.31}, {model=911, id=949, price=89243.32}]
+
+COMPANY: Oldsmobile, 
+AMOUNT: 12
+[{model=Cutlass Supreme, id=241, price=40700.58}, {model=Alero, id=291, price=19600.82}, {model=Intrigue, id=339, price=44180.49}, {model=Silhouette, id=445, price=13640.67}, {model=Silhouette, id=486, price=31020.67}, {model=Silhouette, id=577, price=41257.28}, {model=Achieva, id=619, price=28345.66}, {model=Intrigue, id=654, price=60617.56}, {model=Bravada, id=766, price=99984.84}, {model=Achieva, id=787, price=27473.11}, {model=Cutlass Supreme, id=798, price=91265.88}, {model=Intrigue, id=934, price=18210.02}]
+
+COMPANY: Isuzu, 
+AMOUNT: 12
+[{model=Rodeo, id=22, price=61428.99}, {model=Stylus, id=154, price=3457.00}, {model=Trooper, id=300, price=53274.70}, {model=Rodeo, id=405, price=91740.06}, {model=Trooper, id=471, price=82195.68}, {model=i-370, id=481, price=18055.25}, {model=Trooper, id=640, price=22890.55}, {model=Rodeo, id=702, price=19340.99}, {model=Amigo, id=784, price=36303.51}, {model=Hombre Space, id=802, price=14300.87}, {model=Ascender, id=812, price=3700.19}, {model=Rodeo Sport, id=825, price=59634.95}]
+
+COMPANY: Rolls-Royce, 
+AMOUNT: 2
+[{model=Phantom, id=775, price=56285.59}, {model=Phantom, id=990, price=92943.48}]
+
+COMPANY: Aptera, 
+AMOUNT: 1
+[{model=Typ-1, id=595, price=24570.34}]
+
+COMPANY: Jeep, 
+AMOUNT: 6
+[{model=Compass, id=67, price=92254.93}, {model=Liberty, id=157, price=70337.39}, {model=Cherokee, id=186, price=3765.12}, {model=Grand Cherokee, id=330, price=825.37}, {model=Wrangler, id=588, price=61759.51}, {model=Liberty, id=809, price=36867.34}]
+
+COMPANY: Buick, 
+AMOUNT: 25
+[{model=LeSabre, id=68, price=7542.19}, {model=Regal, id=91, price=82619.40}, {model=Coachbuilder, id=138, price=56616.47}, {model=Coachbuilder, id=140, price=98127.28}, {model=Century, id=156, price=22140.55}, {model=Skyhawk, id=208, price=13632.45}, {model=Roadmaster, id=260, price=59545.91}, {model=Park Avenue, id=261, price=62451.10}, {model=Roadmaster, id=289, price=42570.05}, {model=Riviera, id=335, price=46455.29}, {model=LeSabre, id=372, price=15930.60}, {model=Park Avenue, id=439, price=19287.90}, {model=LaCrosse, id=469, price=91641.43}, {model=Skylark, id=503, price=96346.01}, {model=Rendezvous, id=521, price=23783.83}, {model=Riviera, id=533, price=42903.43}, {model=LaCrosse, id=655, price=52594.08}, {model=Rendezvous, id=690, price=98175.12}, {model=Rainier, id=715, price=80773.22}, {model=Century, id=731, price=8718.64}, {model=Estate, id=745, price=81302.51}, {model=Regal, id=763, price=54411.09}, {model=Park Avenue, id=773, price=60691.83}, {model=Roadmaster, id=831, price=51829.87}, {model=Lucerne, id=874, price=2848.09}]
+
+COMPANY: Mitsubishi, 
+AMOUNT: 42
+[{model=Truck, id=32, price=67651.11}, {model=3000GT, id=66, price=69929.29}, {model=Montero, id=80, price=19694.43}, {model=Raider, id=124, price=67799.88}, {model=Outlander, id=149, price=20062.34}, {model=Endeavor, id=185, price=91031.36}, {model=Endeavor, id=236, price=13604.86}, {model=Mirage, id=272, price=68946.01}, {model=Mirage, id=277, price=30618.20}, {model=Montero, id=281, price=19069.70}, {model=Lancer, id=340, price=48645.33}, {model=GTO, id=354, price=82712.62}, {model=Mirage, id=442, price=75669.99}, {model=Eclipse, id=461, price=60875.66}, {model=Truck, id=474, price=16530.55}, {model=Expo, id=484, price=44918.65}, {model=Lancer Evolution, id=496, price=47392.84}, {model=Starion, id=501, price=90774.68}, {model=Raider, id=518, price=30250.68}, {model=Truck, id=529, price=23585.47}, {model=Eclipse, id=532, price=12423.75}, {model=Endeavor, id=540, price=75776.61}, {model=Mirage, id=578, price=23504.15}, {model=Raider, id=626, price=19402.45}, {model=Starion, id=629, price=55346.91}, {model=Pajero, id=644, price=78651.13}, {model=Pajero, id=650, price=88876.44}, {model=Montero Sport, id=662, price=10997.24}, {model=Pajero, id=687, price=87775.12}, {model=GTO, id=691, price=5804.80}, {model=Lancer, id=695, price=25092.29}, {model=Pajero, id=736, price=40611.47}, {model=GTO, id=810, price=54508.40}, {model=Lancer Evolution, id=814, price=48174.13}, {model=Challenger, id=823, price=24182.93}, {model=Truck, id=856, price=26599.44}, {model=Endeavor, id=880, price=4000.68}, {model=Starion, id=895, price=73629.88}, {model=Eclipse, id=927, price=86159.35}, {model=Pajero, id=936, price=42986.39}, {model=Mirage, id=983, price=88972.98}, {model=Montero, id=997, price=14036.44}]
+
+COMPANY: Lotus, 
+AMOUNT: 6
+[{model=Elise, id=305, price=21021.05}, {model=Esprit, id=355, price=3056.61}, {model=Esprit, id=651, price=85714.00}, {model=Esprit, id=719, price=17571.25}, {model=Esprit, id=885, price=10023.55}, {model=Exige, id=944, price=25498.46}]
+
+COMPANY: BMW, 
+AMOUNT: 40
+[{model=Z4, id=26, price=30372.27}, {model=1 Series, id=53, price=59998.39}, {model=5 Series, id=55, price=64328.89}, {model=X5, id=75, price=48845.79}, {model=5 Series, id=79, price=28961.60}, {model=600, id=86, price=72427.80}, {model=8 Series, id=97, price=36491.19}, {model=7 Series, id=99, price=91829.08}, {model=7 Series, id=117, price=49082.37}, {model=M3, id=150, price=42175.04}, {model=6 Series, id=161, price=96220.95}, {model=545, id=195, price=62614.35}, {model=X5, id=214, price=35279.81}, {model=3 Series, id=238, price=11549.17}, {model=Z4, id=245, price=91014.28}, {model=3 Series, id=269, price=38870.04}, {model=Alpina B7, id=295, price=75764.70}, {model=X5, id=343, price=38978.71}, {model=M3, id=349, price=3563.02}, {model=530, id=367, price=36923.42}, {model=5 Series, id=451, price=6372.82}, {model=M5, id=478, price=38152.91}, {model=330, id=522, price=3362.42}, {model=530, id=539, price=67131.57}, {model=M5, id=601, price=78384.64}, {model=760, id=630, price=69781.42}, {model=6 Series, id=633, price=41179.80}, {model=M, id=636, price=70022.09}, {model=760, id=657, price=59059.35}, {model=Alpina B7, id=658, price=28596.30}, {model=M3, id=682, price=79238.32}, {model=X5 M, id=734, price=74527.00}, {model=X6, id=735, price=64508.20}, {model=X5, id=754, price=33217.66}, {model=M3, id=780, price=28318.62}, {model=7 Series, id=843, price=29836.57}, {model=5 Series, id=894, price=21662.12}, {model=X6, id=902, price=76733.87}, {model=M3, id=954, price=78597.13}, {model=M3, id=961, price=24263.80}]
+
+COMPANY: Bentley, 
+AMOUNT: 6
+[{model=Mulsanne, id=257, price=44587.82}, {model=Continental Flying Spur, id=423, price=4558.80}, {model=Azure, id=584, price=16032.57}, {model=Continental, id=789, price=57996.64}, {model=Continental GTC, id=850, price=46403.57}, {model=Continental Super, id=888, price=95732.27}]
+
+COMPANY: Land Rover, 
+AMOUNT: 12
+[{model=Range Rover, id=38, price=67417.84}, {model=Range Rover, id=116, price=38105.55}, {model=Discovery, id=206, price=44288.79}, {model=Discovery, id=398, price=77609.86}, {model=LR3, id=419, price=55622.30}, {model=Range Rover, id=444, price=25524.36}, {model=Range Rover, id=498, price=45686.49}, {model=Range Rover, id=504, price=9743.19}, {model=Range Rover Sport, id=555, price=60212.16}, {model=Freelander, id=878, price=66450.69}, {model=Discovery Series II, id=916, price=72459.38}, {model=Range Rover Sport, id=1000, price=48217.71}]
+
+COMPANY: Cadillac, 
+AMOUNT: 21
+[{model=Escalade ESV, id=12, price=28270.94}, {model=CTS, id=60, price=25636.62}, {model=CTS-V, id=70, price=33447.26}, {model=CTS, id=90, price=84373.48}, {model=Eldorado, id=182, price=52003.13}, {model=CTS-V, id=204, price=30692.81}, {model=Escalade EXT, id=230, price=81035.43}, {model=SRX, id=296, price=28145.95}, {model=Escalade, id=332, price=17720.70}, {model=Escalade EXT, id=453, price=97983.31}, {model=Escalade, id=573, price=59530.40}, {model=Escalade EXT, id=575, price=4916.34}, {model=DeVille, id=614, price=3635.44}, {model=DeVille, id=664, price=69314.01}, {model=Seville, id=685, price=10923.46}, {model=SRX, id=700, price=56724.53}, {model=Eldorado, id=723, price=19680.87}, {model=Seville, id=836, price=58204.20}, {model=Escalade ESV, id=848, price=67009.11}, {model=Seville, id=867, price=33537.49}, {model=Fleetwood, id=974, price=97896.49}]
+
+COMPANY: Lamborghini, 
+AMOUNT: 7
+[{model=Countach, id=34, price=62789.57}, {model=Gallardo, id=197, price=77676.69}, {model=Gallardo, id=250, price=37201.94}, {model=Diablo, id=363, price=86929.00}, {model=Diablo, id=972, price=67599.21}, {model=Diablo, id=994, price=98881.13}, {model=Gallardo, id=999, price=92609.31}]
+
+COMPANY: MINI, 
+AMOUNT: 2
+[{model=Clubman, id=112, price=16641.30}, {model=Cooper, id=551, price=1568.56}]
+
+COMPANY: Fiat, 
+AMOUNT: 1
+[{model=Nuova 500, id=579, price=66508.75}]
+
+COMPANY: Hummer, 
+AMOUNT: 4
+[{model=H3, id=37, price=13377.50}, {model=H2, id=189, price=29204.91}, {model=H1, id=828, price=4132.19}, {model=H1, id=910, price=97096.82}]
+
+COMPANY: Ford, 
+AMOUNT: 96
+[{model=Thunderbird, id=7, price=17700.70}, {model=Escape, id=11, price=66074.00}, {model=Mustang, id=33, price=98060.01}, {model=Escape, id=42, price=77271.23}, {model=Edge, id=49, price=23688.13}, {model=F350, id=52, price=29919.74}, {model=Escape, id=57, price=84054.37}, {model=E-Series, id=63, price=36141.09}, {model=Escape, id=87, price=24614.31}, {model=Mustang, id=88, price=75613.97}, {model=Bronco, id=92, price=75345.93}, {model=Excursion, id=94, price=73354.65}, {model=E-Series, id=163, price=16804.66}, {model=Mustang, id=177, price=5178.45}, {model=Aerostar, id=200, price=30656.51}, {model=Tempo, id=212, price=28779.90}, {model=F350, id=227, price=58379.50}, {model=F250, id=256, price=97873.45}, {model=F-Series Super Duty, id=265, price=63191.27}, {model=E150, id=273, price=89021.13}, {model=Windstar, id=275, price=19569.07}, {model=F-Series Super Duty, id=293, price=13314.57}, {model=Th!nk, id=299, price=82727.44}, {model=Explorer, id=312, price=99482.35}, {model=Aerostar, id=324, price=88852.80}, {model=Bronco, id=325, price=2081.42}, {model=E150, id=336, price=62890.12}, {model=Escort, id=344, price=34041.27}, {model=F450, id=351, price=66244.66}, {model=F-Series, id=352, price=33685.29}, {model=F250, id=369, price=49845.67}, {model=Thunderbird, id=380, price=97447.57}, {model=F150, id=384, price=33093.92}, {model=Taurus, id=389, price=47935.84}, {model=Mustang, id=394, price=16980.37}, {model=Probe, id=397, price=93767.17}, {model=Expedition, id=399, price=65644.92}, {model=Mustang, id=410, price=68937.65}, {model=Transit Connect, id=429, price=99772.91}, {model=Contour, id=437, price=48603.83}, {model=F150, id=438, price=4494.16}, {model=Expedition, id=440, price=84550.06}, {model=F350, id=441, price=87470.45}, {model=Taurus, id=462, price=46204.10}, {model=Econoline E250, id=468, price=45703.33}, {model=F-Series, id=472, price=77382.36}, {model=Thunderbird, id=487, price=95092.28}, {model=Probe, id=493, price=51447.41}, {model=Econoline E150, id=494, price=4969.63}, {model=F250, id=517, price=24090.47}, {model=Aerostar, id=523, price=96676.64}, {model=Thunderbird, id=550, price=6090.10}, {model=Freestyle, id=567, price=85917.70}, {model=Econoline E250, id=585, price=20678.02}, {model=Econoline E150, id=586, price=60157.99}, {model=Crown Victoria, id=597, price=31058.64}, {model=F-Series, id=606, price=79599.82}, {model=Ranger, id=615, price=68096.90}, {model=Mustang, id=617, price=63872.86}, {model=Tempo, id=648, price=45282.09}, {model=Thunderbird, id=649, price=15928.37}, {model=Explorer, id=652, price=17174.29}, {model=Fusion, id=661, price=84373.36}, {model=Thunderbird, id=663, price=69282.98}, {model=Taurus, id=665, price=9832.25}, {model=Laser, id=669, price=76248.04}, {model=Econoline E350, id=679, price=70090.25}, {model=Ranger, id=683, price=84884.07}, {model=E250, id=684, price=98725.52}, {model=Aerostar, id=709, price=50162.31}, {model=Escape, id=720, price=9988.65}, {model=E-Series, id=725, price=20677.50}, {model=Thunderbird, id=727, price=43073.07}, {model=Mustang, id=730, price=51802.38}, {model=Thunderbird, id=743, price=48238.70}, {model=Freestar, id=750, price=74898.80}, {model=Laser, id=758, price=68546.30}, {model=Mustang, id=761, price=64996.18}, {model=F-Series, id=824, price=43641.50}, {model=Five Hundred, id=849, price=63582.71}, {model=Festiva, id=857, price=12769.30}, {model=Tempo, id=863, price=26658.03}, {model=Mustang, id=868, price=7797.95}, {model=Taurus, id=873, price=29025.54}, {model=Thunderbird, id=875, price=7168.15}, {model=Crown Victoria, id=879, price=73911.07}, {model=F350, id=897, price=24466.36}, {model=F250, id=903, price=90231.67}, {model=Econoline E350, id=912, price=24240.30}, {model=Taurus, id=943, price=56689.77}, {model=Tempo, id=950, price=10645.96}, {model=E150, id=953, price=59923.71}, {model=Crown Victoria, id=955, price=91469.34}, {model=Crown Victoria, id=965, price=78505.53}, {model=Galaxie, id=979, price=64097.32}, {model=Windstar, id=982, price=67491.57}]
+
+COMPANY: Mercury, 
+AMOUNT: 34
+[{model=Cougar, id=98, price=88700.15}, {model=Tracer, id=114, price=27729.92}, {model=Cougar, id=176, price=84681.86}, {model=Mystique, id=188, price=94727.98}, {model=Villager, id=201, price=64650.99}, {model=Grand Marquis, id=209, price=55536.92}, {model=Mountaineer, id=216, price=42602.38}, {model=Grand Marquis, id=217, price=18317.22}, {model=Grand Marquis, id=239, price=16508.63}, {model=Milan, id=311, price=63884.95}, {model=Villager, id=315, price=31679.55}, {model=Mariner, id=317, price=51045.02}, {model=Mariner, id=328, price=26925.61}, {model=Lynx, id=342, price=82170.72}, {model=Mountaineer, id=358, price=22855.77}, {model=Grand Marquis, id=378, price=28802.63}, {model=Mountaineer, id=402, price=41726.55}, {model=Sable, id=510, price=88771.17}, {model=Cougar, id=526, price=50675.72}, {model=Mariner, id=553, price=53006.62}, {model=Sable, id=563, price=37903.44}, {model=Cougar, id=694, price=55346.30}, {model=Topaz, id=708, price=88186.70}, {model=Tracer, id=712, price=29227.96}, {model=Grand Marquis, id=756, price=96434.99}, {model=Villager, id=790, price=19761.40}, {model=Topaz, id=792, price=6267.14}, {model=Grand Marquis, id=820, price=92848.71}, {model=Topaz, id=827, price=65032.86}, {model=Sable, id=840, price=32745.24}, {model=Capri, id=940, price=8438.45}, {model=Cougar, id=991, price=18256.62}, {model=Grand Marquis, id=993, price=21225.95}, {model=Lynx, id=995, price=69167.18}]
+
+COMPANY: Ram, 
+AMOUNT: 2
+[{model=Dakota, id=403, price=30072.66}, {model=2500, id=833, price=49301.29}]
+
+COMPANY: Nissan, 
+AMOUNT: 38
+[{model=300ZX, id=76, price=12845.04}, {model=Altima, id=82, price=36066.50}, {model=Titan, id=106, price=18572.45}, {model=Sentra, id=122, price=9821.53}, {model=Cube, id=133, price=53525.58}, {model=Armada, id=146, price=89173.53}, {model=Rogue, id=159, price=45315.63}, {model=Sentra, id=198, price=5011.93}, {model=Sentra, id=219, price=80813.75}, {model=Maxima, id=246, price=49132.44}, {model=Versa, id=290, price=91895.71}, {model=Quest, id=396, price=14566.11}, {model=Pathfinder, id=416, price=82779.06}, {model=Altima, id=418, price=21401.25}, {model=Xterra, id=505, price=83887.99}, {model=Altima, id=538, price=97208.51}, {model=Datsun/Nissan Z-car, id=541, price=65142.23}, {model=Maxima, id=544, price=55147.67}, {model=Altima, id=574, price=55524.45}, {model=200SX, id=580, price=41834.99}, {model=Pathfinder Armada, id=616, price=96775.20}, {model=Titan, id=621, price=41050.28}, {model=Pathfinder, id=624, price=60327.03}, {model=Quest, id=714, price=4025.41}, {model=Datsun/Nissan Z-car, id=751, price=88329.10}, {model=Altima, id=778, price=37540.55}, {model=300ZX, id=816, price=84230.04}, {model=Pathfinder, id=835, price=96390.02}, {model=Pathfinder, id=852, price=25406.17}, {model=350Z, id=887, price=39853.04}, {model=Altima, id=893, price=45725.23}, {model=Frontier, id=920, price=20489.68}, {model=Quest, id=932, price=39077.60}, {model=Sentra, id=948, price=85674.67}, {model=Altima, id=971, price=97803.65}, {model=GT-R, id=976, price=3222.64}, {model=Pathfinder, id=978, price=36887.35}, {model=Xterra, id=985, price=7004.45}]
+
